@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to the start
 
-I'm glad you are here. I plan to talk about ...
+of a exciting and epic journey of discovery!
