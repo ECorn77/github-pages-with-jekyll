@@ -1,5 +1,5 @@
 ---
-title: The upward voyage
+title: "The upward voyage"
 date: 2020-10-02
 ---
 
